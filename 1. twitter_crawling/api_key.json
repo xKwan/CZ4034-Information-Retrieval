@@ -1,6 +1,6 @@
 {
-    "api_key":"bb9Up5oPIfoTM2HYd0lflfldk",
-    "api_secret":"jtsp2G8TRDtmPKhpdU3cnAimgn1y0Ak8l78Zg2AtdmPccWBlQU",
-    "access_token":"1503952858684612608-CQwm0QEGs9UJB57667ATE8ahbaJjci",
-    "access_token_secret":"5sVXn3yyL5oqUc4Kiz0Sxb7m9taG1B18CnZomAKYdIKSD"
+    "api_key":"YOUR_API_KEY",
+    "api_secret":"YOUR_API_SECRET",
+    "access_token":"YOUR_ACCESS_TOKEN",
+    "access_token_secret":"YOUR_ACCESS_TOKEN_SECRET"
   }
