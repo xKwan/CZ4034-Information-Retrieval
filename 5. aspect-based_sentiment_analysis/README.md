@@ -12,24 +12,6 @@ We sum up thoughts in the article:
 
 <br>
 
-There are over 100 repositories on GitHub around sentiment analysis 
-<sup>
-[1](https://github.com/songyouwei/ABSA-PyTorch)
-[2](https://github.com/jimmyyfeng/TD-LSTM)
-[3](https://github.com/davidsbatista/Aspect-Based-Sentiment-Analysis)
-[4](https://github.com/peace195/aspect-based-sentiment-analysis)
-[5](https://github.com/yardstick17/AspectBasedSentimentAnalysis)
-[6](https://github.com/thestrox/Aspect-Based-Sentiment-Analysis)
-[7](https://github.com/AlexYangLi/ABSA_Keras)
-[8](https://github.com/pedrobalage/SemevalAspectBasedSentimentAnalysis)
-[9](https://github.com/ganeshjawahar/mem_absa)
-</sup>.
-All of them are hard to commercialize and reuse open-source research projects.
-We clean up this excellent research. 
-Please give a star if you like the project. 
-This is important to keep this project alive.
-
-<br>
 
 ### Quick Start
 
